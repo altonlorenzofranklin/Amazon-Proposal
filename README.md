@@ -19,3 +19,10 @@ Your repository should also include a READMe file containing a brief nontechnica
 
 Nontechnical Report
 Customers that were last than 5 minutes away accepted coupons more frequently than customers who were farther away.
+
+I did a histogram that visualize the temperature and weather column.
+
+I did two different bar graphs.
+1. First, Bar graph shows the coupons acceptance rate for customers that were 5 minutes, 15 minutes and 25 minutes away. It shows customers that were closer to the restaurant accepted coupons more frequently than others that were farther away.
+2. Second, Bar graph shows the visit frequency of customer visiting Bar, CoffeeHouse, CarryAway, Restaurant Less than 20 mins away and Restaurant in between 20 to 50 mins away.
+   
